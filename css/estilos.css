@@ -1,7 +1,6 @@
 body{
     background-image: url("../imagem.jpg"); 
     background-size:250vh 250vh;
-    background-repeat: no-repeat;
     font-family: monospace;
   }
   .menu{
