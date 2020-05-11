@@ -3,9 +3,6 @@ body{
     background-size: cover;
     font-family: monospace;
   }
-  .menu{
-    background-color:white;
-  }
   .menu ul {
     display:flex;
     justify-content: space-around;
