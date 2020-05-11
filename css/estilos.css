@@ -1,8 +1,10 @@
 body{
     background-image: url("../imagem.jpg"); 
     background-size:auto 100vh;
+    background-repeat: no-repeat;
     font-family: monospace;
     height: 100vh;
+    width:
   }
   .menu{
     background-color:white;
