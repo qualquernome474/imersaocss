@@ -1,6 +1,6 @@
 body{
     background-image: url("../imagem.jpg"); 
-    background-size:auto 150vh;
+    background-size:150vh 150vh;
     background-repeat: no-repeat;
     font-family: monospace;
   }
